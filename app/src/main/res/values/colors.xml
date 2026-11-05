@@ -1,0 +1,9 @@
+<resources>
+    <color name="calculator_background">#FF000000</color>
+    <color name="calculator_button_digit">#FF333333</color>
+    <color name="calculator_button_function">#FF636363</color>
+    <color name="calculator_button_operator">#FFFF9500</color>
+    <color name="calculator_button_operator_selected">#FFFFFFFF</color>
+    <color name="calculator_text_primary">#FFFFFFFF</color>
+    <color name="calculator_text_secondary">#FF8E8E93</color>
+</resources>
